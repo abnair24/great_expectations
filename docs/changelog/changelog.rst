@@ -2,7 +2,7 @@
 
 develop
 -----------------
-
+* removed obsolete config error handling
 
 0.9.3
 -----------------
