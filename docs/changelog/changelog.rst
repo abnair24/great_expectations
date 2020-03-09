@@ -2,7 +2,7 @@
 
 develop
 -----------------
-
+* Simpler messaging in valiation notebooks
 
 0.9.3
 -----------------
