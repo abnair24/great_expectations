@@ -2,7 +2,7 @@
 
 develop
 -----------------
-
+* removed an unused directory in the GE folder
 
 0.9.3
 -----------------
