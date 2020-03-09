@@ -2,7 +2,7 @@
 
 develop
 -----------------
-
+* CLI suite new now supports `--empty` flag that generates an empty suite and opens a notebook
 
 0.9.3
 -----------------
